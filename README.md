@@ -1,1 +1,1 @@
-# Javascript-Api
+Du skal downloade Insomnia før du kan DELETE items.
